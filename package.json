@@ -1,0 +1,16 @@
+{
+  "name": "mc-server-ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverstat.html",
+  "scripts": {
+    "start": "parcel serverstat.html --open",
+    "build": "parcel serverstat.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
